@@ -1,7 +1,7 @@
 # Contact Manager App
 
 The Contact Manager App is a C++ application designed to manage and organize user contact information efficiently. This application allows users to add, edit, search, delete, and display contact details, including phone numbers, email addresses, and physical addresses. The app is built using C++14 and leverages object-oriented programming principles to ensure modularity and maintainability.
-## This project was developed in the first year of university under the supervision of Dr Mahmoud Mahdi.
+This project was developed in the first year of university under the supervision of Dr Mahmoud Mahdi.
 ## Key Features
 - **Add User**: Allows users to add new contacts by providing details such as user ID, first name, last name, gender, city, phone number, email address, and physical address.
 - **Edit User**: Enables users to update existing contact information based on user ID, first name, or last name.
